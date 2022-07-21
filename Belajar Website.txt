@@ -1,5 +1,5 @@
 Belajar Website
 - Konsisten latihan tiap minggu
 - Banyak belajar hal baru
-- Belajar di bidang backend
 - Dan akan fokus menjadi fullstack
+- belajar mobile programing
